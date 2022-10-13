@@ -25,6 +25,11 @@
 
 <hr>
 
+<h3 align="left">Connect:</h3>
+<a href="https://neeraj182.github.io/Home/"><img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white></a>
+<a href="https://www.kaggle.com/datasets/nejilee/indian-economy-from-1960-to-2020"><img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white></a>
+<a href="https://www.linkedin.com/in/n%C4%ABraj-kaundal-5ab6aa21b/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
