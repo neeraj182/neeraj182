@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Nejilee&show_icons=true)
+[![Nīraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeraj182)](https://github.com/Nejilee/github-readme-stats)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejilee&theme=blue-green)
 
